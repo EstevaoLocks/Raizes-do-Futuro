@@ -1,8 +1,6 @@
-body {
-}
-
 header {
     background-color: red;
+    height: 4.5rem;
 }
 
 main {
@@ -10,5 +8,5 @@ main {
 }
 
 footer {
-    background-color: sienna;
+    background-color: saddlebrown;
 }
